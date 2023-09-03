@@ -1,7 +1,4 @@
 function fibonacciGenerator (n) {
-//Do NOT change any of the code above 👆
-    
-    //Write your code here:
     var fibonacciSeq = [];
     
     for (var i = 0; i < n; i++) {
@@ -13,8 +10,4 @@ function fibonacciGenerator (n) {
     }
 
     return fibonacciSeq; 
-    
-    //Return an array of fibonacci numbers starting from 0.
-    
-//Do NOT change any of the code below 👇
 }
